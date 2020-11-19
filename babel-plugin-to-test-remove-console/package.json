@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-to-test-remove-console",
+  "version": "1.0.0",
+  "description": "it's a simple test for writing babel plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "keywords": [],
+  "author": "arfa_maddi",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {}
+}

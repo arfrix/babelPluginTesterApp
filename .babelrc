@@ -1,0 +1,3 @@
+{
+    "plugins": ["to-test-remove-console" , "./babel-plugin-to-test-remove-console/lib"]
+}
